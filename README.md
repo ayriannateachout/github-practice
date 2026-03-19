@@ -1,2 +1,2 @@
 # github-practice
-github practice for software engineering
+github practice repository for software engineering
